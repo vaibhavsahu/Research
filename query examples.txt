@@ -1,0 +1,93 @@
+Generated 21 comTopCom Q
+Generated 108 comTopTop Q
+  1; oil_change3-_gold               569(d)  2200(w) score=  29
+  2; stockMarket_change3-_action2+     22(d)   101(w) score=   9
+  2; oil_eBola_gold                   63(d)   238(w) score=  32
+  3; oil_production_action2+          25(d)   109(w) score=  15
+  4; gold_places_action2+              2(d)     1(w) score= 900
+  5; oil_change3+_action2-             9(d)     8(w) score= 463
+  5; oil_places_forecast             395(d)  1510(w) score=  31
+  6; gold_places_mine                  3(d)     3(w) score= 400
+  7; oil_change3-_stockMarket        368(d)  1480(w) score=  24
+  8; oil_forecast_change3-           842(d)  2950(w) score=  43
+  9; stockMarket_change3-_eBola       50(d)   146(w) score=  71
+  9; stockMarket_forecast_market    1100(d)  5470(w) score=   1
+ 10; stockMarket_change3+_action2-      2(d)     7(w) score=  43
+ 11; stockMarket_change3+_eBola       17(d)    56(w) score=  52
+ 12; oil_places_change3-             560(d)  1970(w) score=  42
+ 12; oil_forecast_change3+           236(d)   673(w) score=  75
+ 13; stockMarket_forecast_change3+    173(d)  1220(w) score= -29
+ 14; stockMarket_change3+_market     146(d)  1020(w) score= -28
+ 15; gold_places_production            2(d)     3(w) score= 233
+ 16; stockMarket_eBola_action2-        2(d)     3(w) score= 233
+ 16; gold_production_change3-        582(d)  2760(w) score=   5
+ 17; gold_production_action2-         25(d)    83(w) score=  51
+ 18; gold_action2+_action2-            3(d)     5(w) score= 200
+ 19; gold_forecast_change3+          183(d)   781(w) score=  17
+ 19; oil_eBola_action2+                4(d)    37(w) score= -46
+ 20; stockMarket_production_gold     622(d)  3340(w) score=  -7
+ 21; stockMarket_change3+_change3-    114(d)   743(w) score= -23
+ 22; oil_opec_change3-              1060(d)  2650(w) score= 100
+ 22; oil_eBola_stockMarket            36(d)   130(w) score=  38
+ 23; stockMarket_places_production      2(d)     1(w) score= 900
+ 24; stockMarket_production_change3-   1170(d)     8(w) score=73025
+ 25; stockMarket_action2+_gold        14(d)    58(w) score=  21
+ 26; gold_mine_forecast                6(d)     6(w) score= 400
+ 26; stockMarket_places_eBola          2(d)     2(w) score= 400
+ 27; gold_mine_production              1(d)     2(w) score= 150
+ 28; stockMarket_change3-_action2-      7(d)    41(w) score= -15
+ 29; oil_forecast_action2+            25(d)    84(w) score=  49
+ 29; gold_change3+_action2+            7(d)    42(w) score= -17
+ 30; oil_production_stockMarket      615(d)  2560(w) score=  20
+ 31; oil_forecast_production        1670(d)  5580(w) score=  50
+ 32; oil_forecast_opec               797(d)  2020(w) score=  97
+ 33; oil_production_change3-        1190(d)  3610(w) score=  65
+ 33; gold_forecast_action2+           22(d)   109(w) score=   1
+ 34; stockMarket_production_action2-      6(d)   116(w) score= -74
+ 35; stockMarket_forecast_eBola       44(d)   137(w) score=  61
+GOOGLE ERROR gold_forecast_production Attempt 1 Waiting 4.87
+ 36; gold_forecast_production       1590(d)  6220(w) score=  28
+ 36; oil_change3+_production         481(d)  1030(w) score= 133
+GOOGLE ERROR gold_change3+_production Attempt 1 Waiting 4.48
+ 37; gold_change3+_production        202(d)   934(w) score=   8
+ 38; stockMarket_forecast_action2+     52(d)   300(w) score= -13
+ 39; stockMarket_change3+_gold        70(d)    12(w) score=2817
+ 40; stockMarket_change3+_production    185(d)  1430(w) score= -35
+ 40; oil_opec_action2+                62(d)   182(w) score=  70
+ 41; gold_change3+_change3-          118(d)   515(w) score=  15
+ 42; stockMarket_places_market         1(d)     2(w) score= 150
+ 43; oil_places_action2+              42(d)   185(w) score=  14
+ 43; stockMarket_change3-_market     678(d)  2570(w) score=  32
+ 44; stockMarket_places_change3-       2(d)     4(w) score= 150
+ 45; oil_action2+_stockMarket         24(d)   119(w) score=   1
+ 46; oil_eBola_action2-                1(d)     4(w) score=  25
+ 47; gold_mine_action2-                3(d)     4(w) score= 275
+ 47; stockMarket_action2+_action2-      2(d)     3(w) score= 233
+ 48; stockMarket_production_action2+     51(d)   273(w) score=  -7
+ 49; gold_forecast_change3-          563(d)  2660(w) score=   6
+ 50; oil_places_action2-               8(d)    29(w) score=  38
+ 50; gold_mine_change3-                2(d)     3(w) score= 233
+ 51; stockMarket_change3+_action2+      3(d)    34(w) score= -56
+ 52; stockMarket_eBola_gold           31(d)    71(w) score= 118
+ 53; oil_forecast_gold               787(d)  2770(w) score=  42
+ 53; stockMarket_change3-_gold       278(d)  1230(w) score=  13
+ 54; gold_change3-_action2+           13(d)    58(w) score=  12
+ 55; gold_places_forecast              3(d)     6(w) score= 150
+ 56; oil_change3+_eBola               18(d)    71(w) score=  27
+ 57; stockMarket_places_action2+       0(d)     2(w) score=-100
+
+
+http://www.google.com/search?q=intitle:"s%26p+500"+OR+intitle:s%26p500+index++(strong+buy+OR+go+long+OR+enter+long+OR+-hold*+-short+-sell)+(strong+sell+OR+go+short+OR+shorting+OR+-hold*+-long+-covering+-buy)&tbs=qdr:d
+
+http://www.google.com/search?q=intitle:"s%26p+500"+OR+intitle:s%26p500+index+(strong+buy+OR+go+long+OR+enter+long+OR)+(strong+sell+OR+go+short+OR+shorting)&tbm=nws&tbs=qdr:d
+
+http://www.google.com/search?q=intitle:"stock market"+(forecast+OR+report+OR+outlook+OR+tomorrow+OR+projection+OR+news+-weather)+(crisis+OR+collapse+OR+danger+OR+slump+OR+crash+OR+plummets+OR+correction)&tbs=qdr&TBM=nws
+ 82; s&p500_forecast_change3- 
+
+https://www.google.com/search?q=google&aq=0&oq=goog&aqs=chrome.0.0j57j0l2j60l2.1738&sugexp=chrome,mod=18&sourceid=chrome&ie=UTF-8#hl=en&safe=off&tbo=d&tbm=nws&sclient=psy-ab&q=site:www.cnn.com&oq=site:www.cnn.com&gs_l=serp.3...3815.3815.7.3944.1.1.0.0.0.0.59.59.1.1.0...0.0...1c.1.w5aSDacMGMA&pbx=1&bav=on.2,or.r_gc.r_pw.r_qf.&bvm=bv.41524429,d.cGE&fp=8f0fd2ea357d5d13&biw=1680&bih=917
+
+https://www.google.com/search?q=intitle:%22stock%20market%22+(forecast+OR+report+OR+outlook+OR+tomorrow+OR+projection+OR+news+-weather)+(crisis+OR+collapse+OR+danger+OR+slump+OR+crash+OR+plummets+OR+correction)&tbs=qdr&TBM=nws&gws_rd=ssl#q=intitle%3A%22stock+market%22+(forecast+OR+report+OR+outlook+OR+tomorrow+OR+projection+OR+news+-weather)+(crisis+OR+collapse+OR+danger+OR+slump+OR+crash+OR+plummets+OR+correction)&tbm=nws
+
+http://www.google.com/search?q=intitle:"stock+market"+(China+OR+Ukraine+OR+Russia*+OR+Syria*+OR+Europe+OR+"middle+east")+(crisis+OR+collapse+OR+danger+OR+slump+OR+crash+OR+plummets+OR+correction)&tbs=qdr:d
+
+http://www.google.com/search?q=intitle:"stock+market"+(China+OR+Ukraine+OR+Russia*+OR+Syria*+OR+Europe+OR+"middle+east")&tbs=qdr:d

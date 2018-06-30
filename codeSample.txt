@@ -1,0 +1,12 @@
+fileTimes = [arrow.get(re.search(pattern, fileName).group(1), 'YYYY_MM_DD@HH_mm_ss') for fileName in fileNames]
+print found
+arrow.get(found, 'YYYY_MM_DD@HH_mm_ss')
+startTime, endTime = arrow.utcnow().span(’day’)
+
+print [time for time in fileTimes if time.timestamp >= endTime.timestamp and time.timestamp <= startTime.timestamp]
+
+
+
+
+
+
